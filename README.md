@@ -45,6 +45,39 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h5 align="left">I'm a front end web developer <br><br>- 🔭 I’m working as a front end web developer<br>- 📚 I'm currently learning a lot of technologies ...<br>- ⚡ In my free time I like cooding</h5>
+
+###
+
+<h1 align="center"></h1>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ilyass-Goumi/Ilyass-Goumi/output/snake.svg" alt="Snake animation" />
